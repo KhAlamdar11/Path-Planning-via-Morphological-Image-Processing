@@ -11,7 +11,7 @@ The following animations show results of path planning.
 
 ![ Alt text](maze.gif) / ! [](maze.gif)
 
-![ Alt text](maze1_big.gif) / ! [](maze1_big.gif)
+![ Alt text](BFS.gif) / ! [](BFS.gif)
 
 ![ Alt text](maze2.gif) / ! [](maze2.gif)
 
