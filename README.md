@@ -4,3 +4,15 @@ Using morphological IP methods of thinning, we thin the free region and create a
 The following animations show results of path planning.
 
 ![ Alt text](MorphPP_square.gif) / ! [](MorphPP_square.gif)
+
+![ Alt text](circle.gif) / ! [](circle.gif)
+
+![ Alt text](triangle.gif) / ! [](triangle.gif)
+
+![ Alt text](maze.gif) / ! [](maze.gif)
+
+![ Alt text](maze1_big.gif) / ! [](maze1_big.gif)
+
+![ Alt text](maze2.gif) / ! [](maze2.gif)
+
+
