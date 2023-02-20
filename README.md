@@ -5,14 +5,14 @@ The following animations show results of path planning.
 
 ![ Alt text](Results/MorphPP_square.gif)
 
-![ Alt text](Results/circle.gif) / ! [](circle.gif)
+![ Alt text](Results/circle.gif)
 
-![ Alt text](Results/triangle.gif) / ! [](triangle.gif)
+![ Alt text](Results/triangle.gif)
 
-![ Alt text](Results/maze.gif) / ! [](maze.gif)
+![ Alt text](Results/maze.gif) 
 
-![ Alt text](Results/BFS.gif) / ! [](BFS.gif)
+![ Alt text](Results/BFS.gif) 
 
-![ Alt text](Results/maze2.gif) / ! [](maze2.gif)
+![ Alt text](Results/maze2.gif)
 
 
